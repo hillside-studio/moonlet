@@ -86,17 +86,18 @@ crashes or hits a serious error. We use these reports only to find and fix bugs.
 
 A crash report contains:
 
-- technical details of the error (the error type, message and stack trace, meaning which part of
-  the app's code failed);
+- technical details of the error: the error type and stack trace, meaning which part of the app's
+  code failed. The error message is removed before sending, because it could contain text;
 - information about the app and phone: app version, Android version, phone manufacturer and model,
   language, time zone, and technical state such as memory and storage;
-- a short trail of recent app events before the crash (for example which screen was open);
+- a short trail of recent system events before the crash (for example the app going to the
+  background, or the network changing). Taps and typing are not recorded;
 - a random identifier created by the crash-reporting tool for this installation, so we can tell
   whether one install or many are affected. It is not linked to your name, email or Google account.
 
 A crash report does **not** contain your notes, your "talk about tomorrow" text or your reason
-sentence. Moonlet filters crash data before sending it: it drops reports that refer to the
-reflection-note field and does not send typing (text input) events.
+sentence. Moonlet sends a report only when something goes wrong; it does not report each time
+you open the app.
 
 Sentry, like any internet service, receives your IP address when the report is uploaded.
 We have configured Sentry not to store IP addresses.
