@@ -13,4 +13,4 @@ Made by **Hillside Studio**.
 - [Privacy Policy](privacy/)
 - [隐私政策（中文）](zh/privacy/)
 
-Contact: [hillsidestudio.apps@gmail.com](mailto:hillsidestudio.apps@gmail.com)
+Contact: [hillside.studio.dev@gmail.com](mailto:hillside.studio.dev@gmail.com)
