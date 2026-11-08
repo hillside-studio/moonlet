@@ -8,7 +8,7 @@ lang: en
 
 **Effective date:** 8 November 2026
 **Developer:** Hillside Studio ("we", "us")
-**Contact:** hillsidestudio.apps@gmail.com
+**Contact:** hillside.studio.dev@gmail.com
 
 Moonlet helps you put your phone down at night. It does not lock your phone. When you are past
 your bedtime goal and still scrolling, it shows a short pause and lets you choose what to do next.
@@ -178,7 +178,7 @@ anywhere. Moonlet is not a medical or emergency service.
 Moonlet is meant for adults (18 and over). It is not directed at children, and we do not
 knowingly collect personal information from children. Moonlet does not ask for your age or name.
 If you believe a child has turned on crash reports or smart messages and want related data removed,
-contact us at hillsidestudio.apps@gmail.com.
+contact us at hillside.studio.dev@gmail.com.
 
 ## 7. Sharing and selling
 
@@ -199,7 +199,7 @@ data we keep.
   described in section 4.
 - **Crash reports:** kept by Sentry for up to 90 days and then deleted. Because crash reports
   are not linked to your identity, we may not be able to find yours; if you want us to try, email
-  hillsidestudio.apps@gmail.com and we will delete any we can identify.
+  hillside.studio.dev@gmail.com and we will delete any we can identify.
 
 ## 9. Security
 
@@ -212,7 +212,7 @@ make.
 
 Depending on where you live, you may have rights to access, correct or delete your personal data,
 or to object to how it is used. Because almost everything stays on your phone, you can see, change
-and delete it yourself in the app. For anything else, contact hillsidestudio.apps@gmail.com.
+and delete it yourself in the app. For anything else, contact hillside.studio.dev@gmail.com.
 
 ## 11. Changes to this policy
 
@@ -222,4 +222,4 @@ you in the app before the change applies to you.
 ## 12. Contact
 
 Hillside Studio
-hillsidestudio.apps@gmail.com
+hillside.studio.dev@gmail.com
